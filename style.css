@@ -9,6 +9,9 @@
     color: white;
     background: #1a1a1a;
 }
+span::selection{
+    background: transparent;
+}
 span{
     background-color: rgba(182, 182, 182, 0.5);
     padding: 0px 8px;
@@ -105,8 +108,9 @@ h1{
         background-position: center;
     }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
     h1{
-        font-size: 26px;
+        font-size: 22px;
+        
     }
 }
