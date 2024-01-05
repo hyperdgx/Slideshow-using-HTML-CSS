@@ -17,7 +17,7 @@ span{
     padding: 0px 8px;
     color: #1a1a1a;
     border-radius: 8px;
-    box-shadow: 4px 4px 0 2px black;
+    box-shadow: 4px 4px 0 2px #1a1a1a;
     transition: all ease-in-out .25s;
     cursor: default;
 }
@@ -110,7 +110,10 @@ h1{
 }
 @media only screen and (max-width: 600px) {
     h1{
-        font-size: 22px;
-        
+        font-size: 18px;
+        margin: 22px 0;
+    }
+    span{
+        box-shadow: 3px 3px 0 1px #1a1a1a;
     }
 }
