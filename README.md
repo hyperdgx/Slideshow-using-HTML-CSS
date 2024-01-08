@@ -3,4 +3,4 @@ This is very useful code if you guys want to add slidshow or banner slider in yo
 
 This will be the best fit for you then. You can copy and use it and modify this code as per your requirement.
 
-`Ignore Mistakes Thanks For Viewing.`
+`Ignore Mistakes` Thanks For Viewing.
